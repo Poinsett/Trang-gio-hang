@@ -106,8 +106,8 @@ body{
     padding-right: 5px;
 }
 #main{
-    background-image: url(img/shopping_cart/bg_pg.png);
     width: 100%;
+    background-image: url(img/shopping_cart/bg_pg.png);
 }
 #body_content{
     padding-top: 130px;
